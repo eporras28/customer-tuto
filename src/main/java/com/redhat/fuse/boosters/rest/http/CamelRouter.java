@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import java.util.List;
 
 /**
- * A simple Camel REST DSL route that implements the arrivals service.
+ * A simple Camel REST DSL route that implements the arrivals service. EDU
  * 
  */
 @Component
